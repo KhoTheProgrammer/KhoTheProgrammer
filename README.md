@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🎓 Computer Science student at the University of Malawi<br>💡 Passionate about solving real-world problems through technology<br>🚀 Always learning and building impactful solutions
 
 
