@@ -1,8 +1,8 @@
-## About Me:
+# About Me:
 🎓 Computer Science student at the University of Malawi<br>💡 Passionate about solving real-world problems through technology<br>🚀 Always learning and building impactful solutions
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/KondwaniPadyera) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kondwanipadyera@gmail.com) 
 
 # 💻 Tech Stack:
