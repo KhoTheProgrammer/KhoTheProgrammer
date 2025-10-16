@@ -1,5 +1,5 @@
 # About Me:
-🎓 A third year Computer Science student at the University of Malawi<br>💡 Passionate about solving real-world problems through technology<br>🚀 Always learning and building impactful solutions
+🎓 A fourth year Computer Science student at the University of Malawi<br>💡 Passionate about solving real-world problems through technology<br>🚀 Always learning and building impactful solutions
 
 
 # 🌐 Socials:
